@@ -1,0 +1,706 @@
+﻿{
+    "mcVersion":  "1.20.1",
+    "loader":  "forge-47.4.0",
+    "mods":  [
+                 {
+                     "fileName":  "ad_astra-forge-1.20.1-1.15.21.jar",
+                     "modId":  "ad",
+                     "sha256":  "d84dc1182b4c570d955df67b80703dc058ce944c7d9b0702e3577934c96d864c",
+                     "size":  7508773,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/ad_astra-forge-1.20.1-1.15.21.jar"
+                 },
+                 {
+                     "fileName":  "addonslib-forge-1.20.1-1.11.jar",
+                     "modId":  "addonslib",
+                     "sha256":  "5e8679dbe21e6cb77b56b67422465204064bf80b3d33e7913239707c76c8699e",
+                     "size":  132310,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/addonslib-forge-1.20.1-1.11.jar"
+                 },
+                 {
+                     "fileName":  "alexscaves-2.0.2.jar",
+                     "modId":  "alexscaves",
+                     "sha256":  "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
+                     "size":  74871657,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/alexscaves-2.0.2.jar"
+                 },
+                 {
+                     "fileName":  "alexsmobs-1.22.9.jar",
+                     "modId":  "alexsmobs",
+                     "sha256":  "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+                     "size":  26350793,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/alexsmobs-1.22.9.jar"
+                 },
+                 {
+                     "fileName":  "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+                     "modId":  "ambientsounds",
+                     "sha256":  "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+                     "size":  53429226,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "Aquaculture-1.20.1-2.5.7.jar",
+                     "modId":  "aquaculture",
+                     "sha256":  "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f",
+                     "size":  601839,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Aquaculture-1.20.1-2.5.7.jar"
+                 },
+                 {
+                     "fileName":  "architectury-9.2.14-forge.jar",
+                     "modId":  "architectury",
+                     "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+                     "size":  580602,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/architectury-9.2.14-forge.jar"
+                 },
+                 {
+                     "fileName":  "ars_nouveau-1.20.1-4.12.7-all.jar",
+                     "modId":  "ars",
+                     "sha256":  "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af",
+                     "size":  12430237,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/ars_nouveau-1.20.1-4.12.7-all.jar"
+                 },
+                 {
+                     "fileName":  "balm-forge-1.20.1-7.3.44.jar",
+                     "modId":  "balm",
+                     "sha256":  "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
+                     "size":  561741,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/balm-forge-1.20.1-7.3.44.jar"
+                 },
+                 {
+                     "fileName":  "berezka_api-1.2.9.6-forge-1.20.1.jar",
+                     "modId":  "berezka",
+                     "sha256":  "3eebfb066cf351b951dfe2ad55300553ea7cc7b1f79883c989ca7c69f60b8649",
+                     "size":  159609,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/berezka_api-1.2.9.6-forge-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+                     "modId":  "biomesoplenty",
+                     "sha256":  "c587b49931e62f89c2673936a5e7269c6daabb713dbcc30813cb0f76da37e01d",
+                     "size":  21800460,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/BiomesOPlenty-1.20.1-18.0.0.592.jar"
+                 },
+                 {
+                     "fileName":  "BloodMagic-1.18-1.20.1-3.3.8-50.jar",
+                     "modId":  "bloodmagic",
+                     "sha256":  "8bf5750c4ff10b13f1cfc57efeadb321e11d52a882c3905006dfe3287c3bedf0",
+                     "size":  15079434,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/BloodMagic-1.18-1.20.1-3.3.8-50.jar"
+                 },
+                 {
+                     "fileName":  "Botania-1.20.1-456-FORGE.jar",
+                     "modId":  "botania",
+                     "sha256":  "3cf540357c9cb5e460266b17a02617656df6cc7090a565fca2a462b1c3aba4ae",
+                     "size":  12226445,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Botania-1.20.1-456-FORGE.jar"
+                 },
+                 {
+                     "fileName":  "botarium-forge-1.20.1-2.3.4.jar",
+                     "modId":  "botarium",
+                     "sha256":  "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf",
+                     "size":  157633,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/botarium-forge-1.20.1-2.3.4.jar"
+                 },
+                 {
+                     "fileName":  "citadel-2.6.3-1.20.1.jar",
+                     "modId":  "citadel",
+                     "sha256":  "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+                     "size":  3185275,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/citadel-2.6.3-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "cloth-config-11.1.136-forge.jar",
+                     "modId":  "cloth",
+                     "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+                     "size":  1181413,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/cloth-config-11.1.136-forge.jar"
+                 },
+                 {
+                     "fileName":  "Clumps-forge-1.20.1-12.0.0.4.jar",
+                     "modId":  "clumps",
+                     "sha256":  "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
+                     "size":  20299,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Clumps-forge-1.20.1-12.0.0.4.jar"
+                 },
+                 {
+                     "fileName":  "collective-1.20.1-8.40.jar",
+                     "modId":  "collective",
+                     "sha256":  "bb530e601fdd1217cdac24d700ad2888ac3ccc23f255869ab9947e4028267198",
+                     "size":  745947,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/collective-1.20.1-8.40.jar"
+                 },
+                 {
+                     "fileName":  "comforts-forge-6.4.0+1.20.1.jar",
+                     "modId":  "comforts",
+                     "sha256":  "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
+                     "size":  382083,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/comforts-forge-6.4.0+1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "constructionwand-1.20.1-2.11.jar",
+                     "modId":  "constructionwand",
+                     "sha256":  "b55ca6f0e734bad848adb06949675136f1d05cb4fb3efdde084c9842c40e1eec",
+                     "size":  210312,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/constructionwand-1.20.1-2.11.jar"
+                 },
+                 {
+                     "fileName":  "Corgilib-Forge-1.20.1-4.0.3.5.jar",
+                     "modId":  "corgilib",
+                     "sha256":  "6879c214e0793278e14105b70d085ba218551c39daa78c846273030278bef350",
+                     "size":  318765,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Corgilib-Forge-1.20.1-4.0.3.5.jar"
+                 },
+                 {
+                     "fileName":  "corpse-forge-1.20.1-1.0.23.jar",
+                     "modId":  "corpse",
+                     "sha256":  "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
+                     "size":  245644,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/corpse-forge-1.20.1-1.0.23.jar"
+                 },
+                 {
+                     "fileName":  "Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar",
+                     "modId":  "cosmic",
+                     "sha256":  "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca",
+                     "size":  28385967,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "cosmosunbound-1.2-forge-1.20.1.jar",
+                     "modId":  "cosmosunbound",
+                     "sha256":  "98d0cb9ff50ea2e315b30fb68b996a46fa46173d6838d169f1cd115f9ee8eea8",
+                     "size":  169748,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/cosmosunbound-1.2-forge-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "create-1.20.1-6.0.8.jar",
+                     "modId":  "create",
+                     "sha256":  "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+                     "size":  19170905,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/create-1.20.1-6.0.8.jar"
+                 },
+                 {
+                     "fileName":  "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+                     "modId":  "creativecore",
+                     "sha256":  "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+                     "size":  1144290,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "cristellib-1.1.6-forge.jar",
+                     "modId":  "cristellib",
+                     "sha256":  "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+                     "size":  431318,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/cristellib-1.1.6-forge.jar"
+                 },
+                 {
+                     "fileName":  "crittersandcompanions-forge-1.20.1-2.7.1.jar",
+                     "modId":  "crittersandcompanions",
+                     "sha256":  "468bdf80d5a38bd1389be28c39ed0016d62078bd81f82577f1dbd54aae672c33",
+                     "size":  2115160,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/crittersandcompanions-forge-1.20.1-2.7.1.jar"
+                 },
+                 {
+                     "fileName":  "Croptopia-1.20.1-FORGE-4.0.1.jar",
+                     "modId":  "croptopia",
+                     "sha256":  "bbd35cbdbe8b9d20a70ab79a42781a82f19f51de068861c431879becbce66d28",
+                     "size":  2155802,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Croptopia-1.20.1-FORGE-4.0.1.jar"
+                 },
+                 {
+                     "fileName":  "curios-forge-5.14.1+1.20.1.jar",
+                     "modId":  "curios",
+                     "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+                     "size":  398066,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/curios-forge-5.14.1+1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "cwb-forge-3.0.0+mc1.20.jar",
+                     "modId":  "cwb",
+                     "sha256":  "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478",
+                     "size":  258613,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/cwb-forge-3.0.0+mc1.20.jar"
+                 },
+                 {
+                     "fileName":  "DungeonsArise-1.20.x-2.1.58-release.jar",
+                     "modId":  "dungeonsarise",
+                     "sha256":  "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90",
+                     "size":  8762342,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/DungeonsArise-1.20.x-2.1.58-release.jar"
+                 },
+                 {
+                     "fileName":  "dynamiclights-1.20.1.2.jar",
+                     "modId":  "dynamiclights",
+                     "sha256":  "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7",
+                     "size":  49564,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/dynamiclights-1.20.1.2.jar"
+                 },
+                 {
+                     "fileName":  "embeddium-0.3.31+mc1.20.1.jar",
+                     "modId":  "embeddium",
+                     "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+                     "size":  1320675,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/embeddium-0.3.31+mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "entityculling-forge-1.11.2-mc1.20.1.jar",
+                     "modId":  "entityculling",
+                     "sha256":  "5d5dc228dc18422fd8a81cff63e654abb07ca4507b317db114b220aa3fc67d3b",
+                     "size":  1515048,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/entityculling-forge-1.11.2-mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+                     "modId":  "epherolib",
+                     "sha256":  "8924a015f28348c806e6680addc2d5a8bcaf8439dd51ce48ce3b2f2b0e522407",
+                     "size":  756864,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+                 },
+                 {
+                     "fileName":  "FarmersDelight-1.20.1-1.3.4.jar",
+                     "modId":  "farmersdelight",
+                     "sha256":  "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
+                     "size":  3311051,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/FarmersDelight-1.20.1-1.3.4.jar"
+                 },
+                 {
+                     "fileName":  "ferritecore-6.0.1-forge.jar",
+                     "modId":  "ferritecore",
+                     "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+                     "size":  123034,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/ferritecore-6.0.1-forge.jar"
+                 },
+                 {
+                     "fileName":  "geckolib-forge-1.20.1-4.8.4.jar",
+                     "modId":  "geckolib",
+                     "sha256":  "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+                     "size":  1038209,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/geckolib-forge-1.20.1-4.8.4.jar"
+                 },
+                 {
+                     "fileName":  "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+                     "modId":  "immediatelyfast",
+                     "sha256":  "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+                     "size":  532063,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+                 },
+                 {
+                     "fileName":  "jei-1.20.1-forge-15.56.0.205.jar",
+                     "modId":  "jei",
+                     "sha256":  "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
+                     "size":  1778129,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/jei-1.20.1-forge-15.56.0.205.jar"
+                 },
+                 {
+                     "fileName":  "justzoom_forge_2.1.1_MC_1.20.1.jar",
+                     "modId":  "justzoom",
+                     "sha256":  "778c75c388a8dffed5bfad25ab9a420dfd6c4ec3bdc1699ec6c2bab2336b5040",
+                     "size":  204574,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/justzoom_forge_2.1.1_MC_1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                     "modId":  "konkrete",
+                     "sha256":  "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
+                     "size":  625185,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "light-overlay-8.0.0-forge.jar",
+                     "modId":  "light",
+                     "sha256":  "96c9cb4303591eff91315374cbcb5aeb783f53bfc34fe9d9d5615267fdb8bdc6",
+                     "size":  65273,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/light-overlay-8.0.0-forge.jar"
+                 },
+                 {
+                     "fileName":  "lootr-forge-1.20-0.7.35.94.jar",
+                     "modId":  "lootr",
+                     "sha256":  "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+                     "size":  463485,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/lootr-forge-1.20-0.7.35.94.jar"
+                 },
+                 {
+                     "fileName":  "lostcities-1.20-7.5.6.jar",
+                     "modId":  "lostcities",
+                     "sha256":  "8ef4af449cbc7309acc57df3a66b9d264e4924a820d9ae003d355172a09d8e87",
+                     "size":  1442102,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/lostcities-1.20-7.5.6.jar"
+                 },
+                 {
+                     "fileName":  "Mantle-1.20.1-1.11.104.jar",
+                     "modId":  "mantle",
+                     "sha256":  "6052e47c3981064bd5213728eaa3c5418289f6f85b07a1cd4dd1505239248838",
+                     "size":  1625005,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Mantle-1.20.1-1.11.104.jar"
+                 },
+                 {
+                     "fileName":  "mcjtylib-1.20-8.0.8.jar",
+                     "modId":  "mcjtylib",
+                     "sha256":  "523ee1d0060d0185e2145418973f9bc972e43f467790eb33ffbd22273f9385fd",
+                     "size":  714454,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcjtylib-1.20-8.0.8.jar"
+                 },
+                 {
+                     "fileName":  "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed",
+                     "size":  693579,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcwbyg-1.20.1-1.6.jar",
+                     "modId":  "mcwbyg",
+                     "sha256":  "a0abbb5aa6b1cd2a32c91085eb65c5a3ba2dc3a5b7ced1320fcd83dc1c85e940",
+                     "size":  13365511,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcwbyg-1.20.1-1.6.jar"
+                 },
+                 {
+                     "fileName":  "mcw-doors-1.1.5-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
+                     "size":  1246753,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-doors-1.1.5-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d",
+                     "size":  2174615,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-lights-1.1.5-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "174437555ff8b3938b5af8fa3f6efcc528fc101e90e35b89570323e4a3726f0a",
+                     "size":  547779,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-lights-1.1.5-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "10deb617769e9674a767a3991af4c46afd081b5de42cee326f71ef2700a14313",
+                     "size":  708634,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "9a809897462ca11c1920748b0fdf4555f05ef3650db1bd82016906795d068c9f",
+                     "size":  812573,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "c952bf7b9eec89071d05da79f73459565847c65187b2f342fa0933c46605bfea",
+                     "size":  554055,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10",
+                     "size":  1320692,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-paintings-1.1.0-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "cbd805aa623a01db3ebce71ef1f80340e8036a348457a4848a3dce93df551e05",
+                     "size":  175597,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-paintings-1.1.0-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "3554317ad8d082a3d9fb5d8b387f5206e545323b4387ed1b93b7b3bf889def3f",
+                     "size":  1864023,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-roofs-2.3.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+                     "modId":  "mcw",
+                     "sha256":  "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217",
+                     "size":  604510,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+                 },
+                 {
+                     "fileName":  "Mekanism-1.20.1-10.4.16.80.jar",
+                     "modId":  "mekanism",
+                     "sha256":  "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2",
+                     "size":  12558456,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Mekanism-1.20.1-10.4.16.80.jar"
+                 },
+                 {
+                     "fileName":  "MekanismGenerators-1.20.1-10.4.16.80.jar",
+                     "modId":  "mekanismgenerators",
+                     "sha256":  "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512",
+                     "size":  1054586,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/MekanismGenerators-1.20.1-10.4.16.80.jar"
+                 },
+                 {
+                     "fileName":  "MekanismTools-1.20.1-10.4.16.80.jar",
+                     "modId":  "mekanismtools",
+                     "sha256":  "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb",
+                     "size":  517999,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/MekanismTools-1.20.1-10.4.16.80.jar"
+                 },
+                 {
+                     "fileName":  "modernfix-forge-5.27.83+mc1.20.1.jar",
+                     "modId":  "modernfix",
+                     "sha256":  "954ff22f601be8de3978a0d7636a138dc93801c6ac55cfd71ef1cd2895de8e5f",
+                     "size":  1003230,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/modernfix-forge-5.27.83+mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                     "modId":  "mousetweaks",
+                     "sha256":  "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
+                     "size":  76237,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+                 },
+                 {
+                     "fileName":  "MRU-1.0.4+1.20.1+forge.jar",
+                     "modId":  "mru",
+                     "sha256":  "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
+                     "size":  287393,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/MRU-1.0.4+1.20.1+forge.jar"
+                 },
+                 {
+                     "fileName":  "oculus-mc1.20.1-1.8.0.jar",
+                     "modId":  "oculus",
+                     "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+                     "size":  2851119,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/oculus-mc1.20.1-1.8.0.jar"
+                 },
+                 {
+                     "fileName":  "Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
+                     "modId":  "oh",
+                     "sha256":  "a6d21a08170dbfb6c3983b571bb2c1cd92aa93109f5b3a9b47101688dd81ea01",
+                     "size":  19043613,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar"
+                 },
+                 {
+                     "fileName":  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
+                     "modId":  "oh",
+                     "sha256":  "b3495f6b0ffa38bc5bf7189e29a27eef0c23b58540dc2f32033889c2943e5694",
+                     "size":  171966,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar"
+                 },
+                 {
+                     "fileName":  "Patchouli-1.20.1-85-FORGE.jar",
+                     "modId":  "patchouli",
+                     "sha256":  "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+                     "size":  642732,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Patchouli-1.20.1-85-FORGE.jar"
+                 },
+                 {
+                     "fileName":  "pipez-forge-1.20.1-1.2.26.jar",
+                     "modId":  "pipez",
+                     "sha256":  "f692b0a24c46c954358db8535248021deaf3399973c4e746ba1e3e115a8a48c9",
+                     "size":  431615,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/pipez-forge-1.20.1-1.2.26.jar"
+                 },
+                 {
+                     "fileName":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                     "modId":  "player",
+                     "sha256":  "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+                     "size":  181437,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+                 },
+                 {
+                     "fileName":  "refinedstorage-1.12.4.jar",
+                     "modId":  "refinedstorage",
+                     "sha256":  "d8ae3926c2121336efcd6956c43d91f21ce405b77ac7c7201c559d4c19f380d2",
+                     "size":  3300191,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/refinedstorage-1.12.4.jar"
+                 },
+                 {
+                     "fileName":  "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+                     "modId":  "resourcefulconfig",
+                     "sha256":  "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
+                     "size":  136923,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+                 },
+                 {
+                     "fileName":  "resourcefullib-forge-1.20.1-2.1.29.jar",
+                     "modId":  "resourcefullib",
+                     "sha256":  "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8",
+                     "size":  432753,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+                 },
+                 {
+                     "fileName":  "rftoolsbase-1.20-5.0.7.jar",
+                     "modId":  "rftoolsbase",
+                     "sha256":  "8ba2f257cfafa034fa86971005cc416979563badd0525fdbfeea40da48e6375e",
+                     "size":  419732,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/rftoolsbase-1.20-5.0.7.jar"
+                 },
+                 {
+                     "fileName":  "rftoolsbuilder-1.20-6.0.10.jar",
+                     "modId":  "rftoolsbuilder",
+                     "sha256":  "941e83ffbf4baee9a945385ac94adef7bb5977b8c2a34109ee580ea12a100404",
+                     "size":  1007922,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/rftoolsbuilder-1.20-6.0.10.jar"
+                 },
+                 {
+                     "fileName":  "rftoolsstorage-1.20-5.0.4.jar",
+                     "modId":  "rftoolsstorage",
+                     "sha256":  "1c922258cded37163e5142f7062d6c764839159716e539f98873a9381b9a15bc",
+                     "size":  375927,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/rftoolsstorage-1.20-5.0.4.jar"
+                 },
+                 {
+                     "fileName":  "rftoolsutility-1.20-6.0.7.jar",
+                     "modId":  "rftoolsutility",
+                     "sha256":  "5762c7b963ba139c5181bf004abfb2180053e5126b20722cd876bb65105e9b3b",
+                     "size":  1373182,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/rftoolsutility-1.20-6.0.7.jar"
+                 },
+                 {
+                     "fileName":  "skinlayers3d-forge-1.11.3-mc1.20.1.jar",
+                     "modId":  "skinlayers3d",
+                     "sha256":  "6229ea6e5d77dd1f66d21163bf3187abb899d59f508dae63ab67ecbb0f804cc5",
+                     "size":  2093560,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/skinlayers3d-forge-1.11.3-mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "skinrestorer-2.11.0+1.20-forge.jar",
+                     "modId":  "skinrestorer",
+                     "sha256":  "74c14d49cbf6a882292cd14611c57c2567d627e43b022376b6736a18beef733f",
+                     "size":  287044,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/skinrestorer-2.11.0+1.20-forge.jar"
+                 },
+                 {
+                     "fileName":  "sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
+                     "modId":  "sophisticatedbackpacks",
+                     "sha256":  "6ab4a0cb739a6c11442a73d1b5f42c40c2ae93b31162fa63d81e1b66706e9e31",
+                     "size":  1223451,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar"
+                 },
+                 {
+                     "fileName":  "sophisticatedcore-1.20.1-1.5.1.2335.jar",
+                     "modId":  "sophisticatedcore",
+                     "sha256":  "f4038a2e0d0e3504258fbe315cb27a37f1a769d71985bfa20afb983a3bdfab64",
+                     "size":  1734797,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/sophisticatedcore-1.20.1-1.5.1.2335.jar"
+                 },
+                 {
+                     "fileName":  "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                     "modId":  "sound",
+                     "sha256":  "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
+                     "size":  206984,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+                 },
+                 {
+                     "fileName":  "tacz-1.20.1-1.1.8-hotfix.jar",
+                     "modId":  "tacz",
+                     "sha256":  "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77",
+                     "size":  57465167,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/tacz-1.20.1-1.1.8-hotfix.jar"
+                 },
+                 {
+                     "fileName":  "TCIntegrations-1.20.1-2.0.25.19.jar",
+                     "modId":  "tcintegrations",
+                     "sha256":  "c9dd76334c1a8ab3477a0d57cf470329c5f581c322c552f63a9b5bcb6b7b8891",
+                     "size":  2108964,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/TCIntegrations-1.20.1-2.0.25.19.jar"
+                 },
+                 {
+                     "fileName":  "TConstruct-1.20.1-3.11.2.166.jar",
+                     "modId":  "tconstruct",
+                     "sha256":  "653b49d73481a1325ba78adc7273dee6c765a51bafdf264a7510576d6ef91c43",
+                     "size":  21572031,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/TConstruct-1.20.1-3.11.2.166.jar"
+                 },
+                 {
+                     "fileName":  "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                     "modId":  "terrablender",
+                     "sha256":  "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+                     "size":  107532,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+                 },
+                 {
+                     "fileName":  "Terralith_1.20.x_v2.5.4.jar",
+                     "modId":  "terralith",
+                     "sha256":  "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+                     "size":  3156901,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Terralith_1.20.x_v2.5.4.jar"
+                 },
+                 {
+                     "fileName":  "the_lost_city-1.5.0-forge-1.20.1.jar",
+                     "modId":  "the",
+                     "sha256":  "5ce7071d8fb2089707c09acb59da66afc030a215b7dce2e925cca81ea9488384",
+                     "size":  3883272,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/the_lost_city-1.5.0-forge-1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "tidal-towns-2.0.jar",
+                     "modId":  "tidal",
+                     "sha256":  "349ab80789a83bca9dd9fc1d9f9244962b808ff358a27eba465fe93a081d35a4",
+                     "size":  586133,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/tidal-towns-2.0.jar"
+                 },
+                 {
+                     "fileName":  "tomeofblood-1.20.1-0.4.5.jar",
+                     "modId":  "tomeofblood",
+                     "sha256":  "7e11d398914707e6081680b4032ceb1b30fc973fa9d0fc9e6b9f4e10c0a98719",
+                     "size":  979213,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/tomeofblood-1.20.1-0.4.5.jar"
+                 },
+                 {
+                     "fileName":  "touhoulittlemaid-1.5.3-forge+mc1.20.1.jar",
+                     "modId":  "touhoulittlemaid",
+                     "sha256":  "8c341567e57aa3c006f9fa85c7a5e3bc36a53b1cca4e3538c3db705eeeea1bbc",
+                     "size":  24413134,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/touhoulittlemaid-1.5.3-forge+mc1.20.1.jar"
+                 },
+                 {
+                     "fileName":  "Towns-and-Towers-1.12-Fabric+Forge.jar",
+                     "modId":  "towns",
+                     "sha256":  "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+                     "size":  2864275,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/Towns-and-Towers-1.12-Fabric+Forge.jar"
+                 },
+                 {
+                     "fileName":  "treeharvester-1.20.1-9.1.jar",
+                     "modId":  "treeharvester",
+                     "sha256":  "97632ffc055a41970ad3d3390ea726d6629636abe7c07321a0eb94cfea21d186",
+                     "size":  82743,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/treeharvester-1.20.1-9.1.jar"
+                 },
+                 {
+                     "fileName":  "voicechat-forge-1.20.1-2.6.22.jar",
+                     "modId":  "voicechat",
+                     "sha256":  "f171e99fa99f007ef013af5306f6c490fe79a11be7e1b18940147d75ced045b9",
+                     "size":  4923439,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/voicechat-forge-1.20.1-2.6.22.jar"
+                 },
+                 {
+                     "fileName":  "waystones-forge-1.20.1-14.1.21.jar",
+                     "modId":  "waystones",
+                     "sha256":  "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
+                     "size":  536782,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/waystones-forge-1.20.1-14.1.21.jar"
+                 },
+                 {
+                     "fileName":  "xaerominimap-forge-1.20.1-26.5.0.jar",
+                     "modId":  "xaerominimap",
+                     "sha256":  "b21e1b4a13de533d0cf57d55969d5c83b3da78e8be44b93e76cddea9f6503d19",
+                     "size":  2195399,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/xaerominimap-forge-1.20.1-26.5.0.jar"
+                 },
+                 {
+                     "fileName":  "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+                     "modId":  "xaeroworldmap",
+                     "sha256":  "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e",
+                     "size":  1425022,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/xaeroworldmap-forge-1.20.1-1.46.0.jar"
+                 },
+                 {
+                     "fileName":  "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                     "modId":  "yet",
+                     "sha256":  "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+                     "size":  1105891,
+                     "downloadUrl":  "https://raw.githubusercontent.com/fuwaee/m-s-z/main/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+                 }
+             ]
+}

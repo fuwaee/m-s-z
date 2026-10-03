@@ -1,0 +1,11 @@
+# Code source du launcher -> ne jamais push sur le repo de mods (m-s-z)
+ModUpdater/
+publish-win64/
+*/bin/
+*/obj/
+*.exe
+*.pdb
+
+# Fichiers locaux / exemples -> ne pas push
+mods.exemple.json
+generate-manifest.ps1
